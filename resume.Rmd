@@ -70,7 +70,7 @@ skills <- tribble(
   ~skill,               ~level,
   "Excel",              4,
   "Tableau",            3,
-  "SPSS",               4,
+  "SPSS",               3,
   "R",                  4,
 )
 build_skill_bars(skills)
