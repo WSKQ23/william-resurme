@@ -68,10 +68,10 @@ Technical Skills {#skills}
 ```{r}
 skills <- tribble(
   ~skill,               ~level,
-  "Excel",              5,
-  "Tableau",            4,
-  "SPSS",               3,
-  "R",                  2.5,
+  "Excel",              4,
+  "Tableau",            3,
+  "SPSS",               4,
+  "R",                  4,
 )
 build_skill_bars(skills)
 ```
