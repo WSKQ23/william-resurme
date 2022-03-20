@@ -69,7 +69,7 @@ Technical Skills {#skills}
 skills <- tribble(
   ~skill,               ~level,
   "Excel",              4,
-  "Tableau",            4,
+  "Tableau",            3,
   "SPSS",               3,
   "R",                  4,
 )
